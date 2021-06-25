@@ -1,0 +1,36 @@
+.stock img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.stock {
+  color: green;
+  font-size: 50px;
+  text-align: center;
+  margin-right: 100px;
+  padding-right: 100px;
+  margin-left: 100px;
+  padding-left: 100px;
+}
+.botoes {
+  text-align: center;
+  font-size: 20px;
+  word-spacing: 5px;
+}
+
+.title {
+  color: green;
+  font-size: 50px;
+  text-align: center;
+}
+
+.estoque {
+  text-align: center;
+  color: red;
+  font-size: 40px;
+}
+
+body {
+  background-color: khaki;
+}
