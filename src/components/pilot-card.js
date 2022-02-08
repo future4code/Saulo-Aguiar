@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import LukeSkywalker from "../img/luke-skywalker.jpeg";
-// import C3PO from "../img/C-3PO.jpeg";
 
 export const PilotCardContainer = styled.div`
   width: 150px;
